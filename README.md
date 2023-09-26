@@ -19,7 +19,7 @@ A simple cURL client, made for fun in a few hours :)
 ## Debian
 You can find the latest [debian binary over here](https://github.com/unifiedorg/kryptonite/releases/latest), and install it by running
 ```
-sudo dpkg -i kryptonite_1.9_amd64.deb
+sudo dpkg -i kryptonite_1.0_amd64.deb
 ```
 
 ## Manually building
